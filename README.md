@@ -19,5 +19,30 @@ https://dl.espressif.com/dl/package_esp32_index.json
 9. On-Board ESP32 MCU - 1
 10. USB Cable for Programming - 1
 
+# Pinout
+
+<table>
+  <tr>
+    <th> Component </th>
+    <th> Pin No </th>
+  </tr>
+  <tr>
+    <td>LED1</td>
+    <td>13</td>
+  </tr>
+  <tr>
+    <td>LED2</td>
+    <td>12</td>
+  </tr>
+  <tr>
+    <td>LED3</td>
+    <td>19</td>
+  </tr>
+  <tr>
+    <td>LED4</td>
+    <td>32</td>
+  </tr>
+</table>
+
 # Software
 Arduino (<a href="https://www.arduino.cc/en/software">Download from here </a>)
