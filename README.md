@@ -51,11 +51,11 @@ https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers
   </tr>
   <tr>
     <td>Switch1</td>
-    <td>18</td>
+    <td>5</td>
   </tr>
   <tr>
     <td>Switch2</td>
-    <td>5</td>
+    <td>18</td>
   </tr>
   <tr>
     <td>Switch3</td>
