@@ -61,6 +61,30 @@ https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers
     <td>Switch3</td>
     <td>36</td>
   </tr>
+  <tr>
+    <td>LCD_RS</td>
+    <td>23</td>
+  </tr>
+  <tr>
+    <td>LCD_EN</td>
+    <td>15</td>
+  </tr>
+  <tr>
+    <td>LCD_D4</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>LCD_D5</td>
+    <td>26</td>
+  </tr>
+  <tr>
+    <td>LCD_D6</td>
+    <td>27</td>
+  </tr>
+  <tr>
+    <td>LCD_D7</td>
+    <td>14</td>
+  </tr>
 </table>
 
 # Software
