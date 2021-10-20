@@ -85,6 +85,10 @@ https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers
     <td>LCD_D7</td>
     <td>14</td>
   </tr>
+  <tr>
+    <td>DHT11</td>
+    <td>2</td>
+  </tr>
 </table>
 
 # Software
