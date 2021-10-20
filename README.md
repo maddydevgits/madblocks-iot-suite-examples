@@ -4,6 +4,9 @@ Official Repo for madBlocks IoT Suite
 # Hardware
 madBlocks IoT Suite
 
+# Board Manager URL
+https://dl.espressif.com/dl/package_esp32_index.json
+
 # On-Board Components
 1. LED - 4
 2. Buttons - 3
