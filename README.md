@@ -7,6 +7,9 @@ madBlocks IoT Suite
 # Board Manager URL
 https://dl.espressif.com/dl/package_esp32_index.json
 
+# Driver Software URL
+https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers
+
 # On-Board Components
 1. LED - 4
 2. Buttons - 3
