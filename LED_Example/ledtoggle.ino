@@ -11,23 +11,24 @@ int led3=19;
 int led4=32;
 
 int ledPins[]={led1,led2,led3,led4};
+#define ledLength 4
 
 #define LED_ON 1
 #define LED_OFF 0
 
 void setup() {
 
- for(int i=0;i<sizeof(ledPins);i++) {
+ for(int i=0;i<ledLength;i++) {
   pinMode(ledPins[i],OUTPUT);
  }
 }
 
 void loop() {
- for(int i=0;i<sizeof(ledPins);i++) {
+ for(int i=0;i<ledLength;i++) {
   digitalWrite(ledPins[i],LED_ON);
  }
  delay(500);
- for(int i=0;i<sizeof(ledPins);i++) {
+ for(int i=0;i<ledLength;i++) {
   digitalWrite(ledPins[i],LED_OFF);
  }
  delay(500);
