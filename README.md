@@ -49,6 +49,18 @@ https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers
     <td>Buzzer</td>
     <td>4</td>
   </tr>
+  <tr>
+    <td>Switch1</td>
+    <td>18</td>
+  </tr>
+  <tr>
+    <td>Switch2</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>Switch3</td>
+    <td>36</td>
+  </tr>
 </table>
 
 # Software
