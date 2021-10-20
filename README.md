@@ -45,6 +45,10 @@ https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers
     <td>LED4</td>
     <td>32</td>
   </tr>
+  <tr>
+    <td>Buzzer</td>
+    <td>4</td>
+  </tr>
 </table>
 
 # Software
