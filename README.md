@@ -93,6 +93,10 @@ https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers
     <td>Rainfall</td>
     <td>39</td>
   </tr>
+  <tr>
+    <td>Moisture</td>
+    <td>34</td>
+  </tr>
 </table>
 
 # Software
