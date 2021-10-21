@@ -89,6 +89,10 @@ https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers
     <td>DHT11</td>
     <td>2</td>
   </tr>
+  <tr>
+    <td>Rainfall</td>
+    <td>39</td>
+  </tr>
 </table>
 
 # Software
